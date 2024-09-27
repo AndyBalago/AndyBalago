@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrés Balaguera</h1>
 <h3 align="center">A passionate frontend developer from Colombia, living in France since 2017.</h3>
 
-- 🌱 I’m currently learning **Front End at Simplon**
 
 - 📫 How to reach me **andres.balagon@gmail.com**
 
